@@ -1,0 +1,12 @@
+/* 
+Style your website by referencing default HTML elements. 
+
+Elements referenced using a class name (ex: div class="img-section") will need a dot operator.
+ex) .img-section
+
+Any CSS attributes applied to a class will apply to all elements referenced using the classname. 
+*/
+
+h1 {
+
+}
