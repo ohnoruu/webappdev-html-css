@@ -5,8 +5,10 @@ Elements referenced using a class name (ex: div class="img-section") will need a
 ex) .img-section
 
 Any CSS attributes applied to a class will apply to all elements referenced using the classname. 
+
+The font of the text on the website is "League Spartan"
 */
 
 h1 {
-
+    font-family: "League Spartan";
 }
